@@ -1,5 +1,5 @@
-👋 Hello, I’m Michael Okoh Armando, a front end developer and i have love for anything tech and beautiful, clean and responsive User Interface. I love clean code and
-i am very passionate about it and how the beautiful code can be turned into beautiful websites and web apps that provides awesome user experience
+👋 Hello, I’m Michael Okoh Armando, a Front End Developer and I have love for anything Tech and Beautiful, Clean and Responsive User Interface. I love Clean Code and
+I am very Passionate about it and how the Beautiful Code can be transformed into Beautiful Sleek Websites and Web Apps that provides Awesome User Experience
 - 👀 I’m interested in Web Development/Web Design, UI/UX Design, anything that has to do with Creation of Websites
 - 🌱 I’m currently learning Front End Frameworks (React JS) ...
 - 💞️ I’m looking to collaborate on Open source projects, looking to work with fellow front-end developers in remote jobs  ...
